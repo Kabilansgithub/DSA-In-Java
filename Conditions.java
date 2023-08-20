@@ -1,6 +1,6 @@
 package com.kabilan;
 
-public class Conditionls {
+public class Conditions {
     public static void main(String[] args) {
 
         /*
